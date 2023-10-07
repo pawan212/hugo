@@ -1,4 +1,4 @@
-baseURL = 'http://t3ebike.net/'
+baseURL = 'http://world.org/'
 languageCode = 'en-us'
 title = "Megakit"
 Paginate = 20
